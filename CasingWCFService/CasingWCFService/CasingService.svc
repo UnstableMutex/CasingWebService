@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="CasingWCFService.CasingService" CodeBehind="CasingService.svc.cs" %>
